@@ -1,0 +1,13 @@
+# Required for all demos
+requests
+pageindex
+python-dotenv
+reportlab
+
+# Optional: For vector RAG comparison (if you want to run vector_rag_demo.py)
+# Uncomment these lines to enable traditional RAG demo:
+# langchain
+# chromadb
+# pypdf
+# openai
+# tiktoken
